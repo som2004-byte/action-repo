@@ -29,4 +29,3 @@ Repository used for **GitHub actions** (Push, Pull Request, Merge). Webhooks fro
 
 Provided both links as per the assessment instructions.
 
-## Conclusion for demo 
